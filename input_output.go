@@ -7,6 +7,7 @@ import (
 )
 
 func main()  {
+	// Pedimos los datos con scanf
 	/*var nombre string
 	fmt.Println("Dime tu nombre")
 	fmt.Scanf("%s \n", &nombre)
