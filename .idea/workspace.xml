@@ -38,12 +38,20 @@
     <property name="last_opened_file_path" value="$USER_HOME$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager" selected="Go Build.go build slices.go">
+  <component name="RunManager" selected="Go Build.go build capacity.go">
     <configuration name="go build arrays.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="GoTutorial" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/arrays.go" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build capacity.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="GoTutorial" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/capacity.go" />
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
@@ -65,6 +73,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build capacity.go" />
         <item itemvalue="Go Build.go build slices.go" />
         <item itemvalue="Go Build.go build arrays.go" />
         <item itemvalue="Go Build.go build ciclos.go" />
@@ -98,22 +107,22 @@
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
     <state x="740" y="279" key="FileChooserDialogImpl/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606127306480" />
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1606130162217">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1606142388783">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606130162217" />
-    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1606130162217">
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606142388783" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1606142388783">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606130162217" />
-    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1606130162217">
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606142388783" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1606142388783">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606130162217" />
-    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1606130162217">
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606142388783" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1606142388783">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
-    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606130162217" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050/-1920.0.1920.1050@0.0.1920.1050" timestamp="1606142388783" />
     <state x="461" y="169" key="SettingsEditor" timestamp="1606127149084">
       <screen x="0" y="0" width="1920" height="1050" />
     </state>
