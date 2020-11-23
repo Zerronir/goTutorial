@@ -3,6 +3,7 @@ package main
 import "fmt"
 
 func main() {
+	// Por defecto cogen un valor 0, vacío o nulo
 	//var array1 [10] int
 
 	// Definimos una array con longitud y valores
@@ -12,4 +13,7 @@ func main() {
 		fmt.Println(array2[i])
 	}
 
+	// Arrays bidimensionales
+	var matrix[2][2] int
+	fmt.Println(matrix)
 }
